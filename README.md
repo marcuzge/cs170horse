@@ -1,5 +1,6 @@
 # cs170horse
-This is an Algorithm Project.
+This is the final Algorithm Project from CS170 Fall 2016.
+
 Lucos Papasan is entering a horse race! He has m horses, and he must divide them up into relay teams (of
 not necessarily equal size) to enter in the competition. In the race, each team runs a total 10000 m and the
 fastest team wins. Larger teams will perform better, because each horse will have to run less distance. The
